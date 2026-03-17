@@ -57,13 +57,6 @@ const HeroSection = () => {
               Analyze My Website
               <ArrowRight size={16} />
             </a>
-            <a
-              href="#dashboard"
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 text-sm font-medium glass-card text-foreground hover:bg-surface-hover transition-colors duration-200"
-            >
-              <Play size={16} />
-              View Demo
-            </a>
           </motion.div>
 
           {/* Social proof */}
